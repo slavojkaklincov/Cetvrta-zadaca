@@ -1,0 +1,22 @@
+.naslov{
+
+    padding: 20px;
+    height: 140px;
+    background-color: red;
+    color: white;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.link-color{
+    padding: 15px;
+    padding-inline: 20px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.prvi-p{
+    background-color: blue;
+    height: 50px;
+}
